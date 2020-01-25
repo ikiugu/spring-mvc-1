@@ -5,7 +5,14 @@
 </head>
 <body>
 	Hello spring member!!!
+	
 	<br><br>
+	
 	Student name: ${param.studentName}
+	
+	<br><br>
+	
+	The message from the controller is ${ message }
+	
 </body>
 </html>

@@ -4,6 +4,8 @@
 	<title>Hello world input form response</title>
 </head>
 <body>
+	<a href="/spring-mvc-demo">Home</a>
+<hr>
 	Hello spring member!!!
 	
 	<br><br>
